@@ -1,5 +1,11 @@
 {
     "available_space": true,
-    "files": [],
-    "total_size": 0.0
+    "files": [
+        {
+            "name": "Donna Summer 'Once Upon A Time' Act 2-aZK2IKHlVkA.mp4",
+            "path": "music_f/videos/Donna Summer 'Once Upon A Time' Act 2-aZK2IKHlVkA.mp4",
+            "size": 39.087081472
+        }
+    ],
+    "total_size": 39.087081472
 }
