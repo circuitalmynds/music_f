@@ -9,6 +9,13 @@
             "url": "https://github.com/circuitalmynds/music_f/blob/main/videos/Liszt - La Notte, S.602-Je3rfz7r2Wc.mp4?raw=true"
         },
         {
+            "id": "Z3oildVyKiQ",
+            "name": "'Te conozco', de Silvio Rodríguez-Z3oildVyKiQ.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f/videos/'Te conozco', de Silvio Rodríguez-Z3oildVyKiQ.mp4",
+            "size": 9.799349,
+            "url": "https://github.com/circuitalmynds/music_f/blob/main/videos/'Te conozco', de Silvio Rodríguez-Z3oildVyKiQ.mp4?raw=true"
+        },
+        {
             "id": "7psI60ZCOdw",
             "name": "Antonín Dvořák - Serenade for Strings in E Major Op.22 (w_score)-7psI60ZCOdw.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/f/videos/Antonín Dvořák - Serenade for Strings in E Major Op.22 (w_score)-7psI60ZCOdw.mp4",
@@ -49,6 +56,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/f/videos/Larme à gauche-8rg4KvUr3HQ.mp4",
             "size": 4.983254,
             "url": "https://github.com/circuitalmynds/music_f/blob/main/videos/Larme à gauche-8rg4KvUr3HQ.mp4?raw=true"
+        },
+        {
+            "id": "8rg4KvUr3HQ",
+            "name": "Arrozena Tropical Tres Estrellas ®-8rg4KvUr3HQ.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/f/videos/Arrozena Tropical Tres Estrellas ®-8rg4KvUr3HQ.mp4",
+            "size": 11.274801,
+            "url": "https://github.com/circuitalmynds/music_f/blob/main/videos/Arrozena Tropical Tres Estrellas ®-8rg4KvUr3HQ.mp4?raw=true"
         },
         {
             "id": "wbdwMb0Uwnw",
@@ -338,5 +352,5 @@
             "url": "https://github.com/circuitalmynds/music_f/blob/main/videos/Beethoven - Piano Concerto No. 5, Op. 73 'Emperor' (1810) {Cor de Groot}-rjBM1YZgf2o.mp4?raw=true"
         }
     ],
-    "total_size": 923.8166849999999
+    "total_size": 944.890835
 }
